@@ -1,17 +1,18 @@
 - ¡Hola! soy César 👋 
-- Te cuento un poco sobre mi 👀: Profesional con estudios en programación y sistemas de información TIC. Diplomado en Ciencia de Datos (PUC), más de 10 años de experiencia 
-  en labores asociadas a la colección, modelamiento, pre-procesamiento y administración de base de datos. Posteriormente implementador de procesos de ETL, Data Warehouse,
-  Big Data Analytics y visualización de datos. Desarrollo e implementación de modelos predictivos y de segmentación, con datos estructurados y no estructurados. 
-  Minería de datos, utilización de técnicas de machine learning con enfoque en el desarrollo de soluciones disruptivas.
-  Actualmente estoy en formación realizando un segundo diplomado, esta vez de Business Inteligence en la facultad de economia y negocios de la universidad e Chile, para consolidarme
-  como Data Scientist.
-- 🌱 Actualmente estoy aprendiendo Power BI, tengo conocimentos en lenguajes de programación: Python y R, con sus correspondientes librerias. Microsoft SQL, PostgreSQL y 
-  MongoDB.   
-- Busco colaborar en procesos de Analisis de Datos, Minería de Datos, Big Data Analytics, Procesos de ETL e Inteligencia de Negocios para empresas publicas y privadas. 
-- 📫 Puedes contactarme y encontrarme en  https://www.linkedin.com/in/césar-g-83005ab3 donde comparto temas relacionados con ciencia de datos, analisis de datos e inteligencia
-  de negocios.
+- Data Engineer con más de una década de experiencia, especializado en la gestión y análisis de datos, mi trabajo se centra en garantizar el funcionamiento eficiente, seguro de los sistemas tecnológicos, proporcionar soporte crucial al equipo técnico y optimizar el rendimiento de la organización.
+
+Mi labor abarca desde la automatización de procesos y de control de calidad hasta la implementación de sistemas de información geográfica (SIG) y Bases de Datos.
+
+Utilizo herramientas como sistemas de bases de datos, lenguajes de programación de alto nivel y plataformas de Business Intelligence. Dominio de Técnicas de Machine Learning para desarrollar modelos predictivos y de segmentación, gestionando datos estructurados como no estructurados.
+
+Mi compromiso con la innovación y el aprendizaje continuo se refleja en mi trayectoria académica y profesional, actualmente cursando un Magíster en Data Science para evolucionar hacia un rol de Data Scientist. Además, poseo experiencia en aerofotogrametría y en la creación de modelos digitales para diversos sectores industriales (Operador Certificado DGAC).
+
+Mi objetivo es seguir desarrollando soluciones disruptivas y colaborativas que potencien el uso eficiente de los recursos tecnológicos, beneficiando a todas las áreas técnicas de la empresa y contribuyendo a un futuro sostenible 🌱 
+
+- 📫 Puedes contactarme y encontrarme en  https://www.linkedin.com/in/césar-g-83005ab3
+- 
   En mis repositorios vas a encontrar proyectos sobre SQL, python y R que puedes utilizar para para practicar.
-  👏¡Por favor, dame un⭐️si te gustan mis repositorios!
+  👏¡Por favor, dame un ⭐️ si te interesan mis trabajos gustan mis repositorios!
   
 <!---
 Godoca2/Godoca2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
