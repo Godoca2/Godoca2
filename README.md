@@ -1,4 +1,4 @@
-- ¡Hola! soy César 👋 
+¡Hola! soy César 👋 
 Data Engineer con más de una década de experiencia, especializado en la gestión y análisis de datos, mi trabajo se centra en garantizar el funcionamiento eficiente, seguro de los sistemas tecnológicos, proporcionar soporte crucial al equipo técnico y optimizar el rendimiento de la organización.
 
 Mi labor abarca desde la automatización de procesos y de control de calidad hasta la implementación de sistemas de información geográfica (SIG) y Bases de Datos.
@@ -11,7 +11,8 @@ Mi objetivo es seguir desarrollando soluciones disruptivas y colaborativas que p
 
 - 📫 Puedes contactarme y encontrarme en  https://www.linkedin.com/in/césar-g-83005ab3
   
-  En mis repositorios vas a encontrar proyectos sobre SQL, python y R que puedes utilizar para para practicar.
+  En mis repositorios vas a encontrar proyectos sobre SQL, python y R
+  
   👏¡Por favor, dame un ⭐️ si te interesan mis trabajos gustan mis repositorios!
   
 <!---
