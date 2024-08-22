@@ -1,19 +1,21 @@
-¡Hola! soy César 👋 
-Data Engineer con más de una década de experiencia, especializado en la gestión y análisis de datos, mi trabajo se centra en garantizar el funcionamiento eficiente, seguro de los sistemas tecnológicos, proporcionar soporte crucial al equipo técnico y optimizar el rendimiento de la organización.
+Hi! I'm César 👋 
+Data Engineer with more than a decade of experience, specialised in data management and analysis, my work focuses on ensuring the efficient, secure operation of technological systems, providing crucial support to the technical team and optimising the performance of the organisation.
 
-Mi labor abarca desde la automatización de procesos y de control de calidad hasta la implementación de sistemas de información geográfica (SIG) y Bases de Datos.
+My work ranges from process automation and quality control to the implementation of geographic information systems (GIS) and databases.
 
-Utilizo herramientas como sistemas de bases de datos, lenguajes de programación de alto nivel y plataformas de Business Intelligence. Dominio de Técnicas de Machine Learning para desarrollar modelos predictivos y de segmentación, gestionando datos estructurados como no estructurados.
+I use tools such as database systems, high-level programming languages and Business Intelligence platforms. I am proficient in Machine Learning techniques to develop predictive and segmentation models, managing both structured and unstructured data.
 
-Mi compromiso con la innovación y el aprendizaje continuo se refleja en mi trayectoria académica y profesional, actualmente cursando un Magíster en Data Science para evolucionar hacia un rol de Data Scientist. Además, poseo experiencia en aerofotogrametría y en la creación de modelos digitales para diversos sectores industriales (Operador Certificado DGAC).
+My commitment to innovation and continuous learning is reflected in my academic and professional career, currently pursuing a Master in Data Science to evolve into a Data Scientist role. In addition, I have experience in aerial photogrammetry and in the creation of digital models for various industrial sectors (DGAC Certified Operator).
 
-Mi objetivo es seguir desarrollando soluciones disruptivas y colaborativas que potencien el uso eficiente de los recursos tecnológicos, beneficiando a todas las áreas técnicas de la empresa y contribuyendo a un futuro sostenible 🌱 
+My goal is to continue developing disruptive and collaborative solutions that enhance the efficient use of technological resources, benefiting all the technical areas of the company and contributing to a sustainable future 🌱 
 
-- 📫 Puedes contactarme y encontrarme en  https://www.linkedin.com/in/césar-g-83005ab3
+- 📫 You can contact me and find me at https://www.linkedin.com/in/césar-g-83005ab3
   
-  En mis repositorios vas a encontrar proyectos sobre SQL, python y R
+  In my repositories you will find projects about SQL, python and R
   
-  👏¡Por favor, dame un ⭐️ si te interesan mis trabajos gustan mis repositorios!
+  👏 Please give me a ⭐️ if you are interested in my work and like my repositories!
+
+Translated with www.DeepL.com/Translator (free version)
   
 <!---
 Godoca2/Godoca2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
