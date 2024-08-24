@@ -12,7 +12,7 @@ My goal is to continue developing disruptive and collaborative solutions that en
 
 📫 You can contact me and find me at https://www.linkedin.com/in/césar-g-83005ab3
 
-In my repositories you will find projects about SQL, python and R
+In my repositories you will find projects about Python, DuckDB and R
 
 👏 Please give me a ⭐️ if you are interested in my work and like my repositories!
 
