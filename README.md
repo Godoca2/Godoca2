@@ -15,9 +15,3 @@
 
 My commitment to innovation and continuous learning is reflected in my academic and professional career. With a Diploma in Data Science from the **Pontificie Universidad Catolica de Chile** and Business Intelligence from the Faculty of Economics and Business at the University of Chile, I am currently pursuing a **Master in Data Science** to evolve towards a Data Scientist role at the University of Development.
 
----
-
-🌟 **Please give me a** ⭐ **if you are interested in my work and like my repositories!**
-
-![Profile views](https://godoca2.github.io/)
-
