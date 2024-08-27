@@ -17,21 +17,7 @@ My commitment to innovation and continuous learning is reflected in my academic 
 
 ---
 
-## Projects and Collaborations
-
-In my repositories, you will find projects about **Python, DuckDB, and R**:
-
-- [Repository 1](#): **Data Processing Pipeline with Python**
-- [Repository 2](#): **Advanced Machine Learning Models**
-- [Repository 3](#): **GIS Data Visualization Tools**
-
-📫 **Contact Me:**  
-- [Email me](mailto:cgodoy.delaigue@gmail.com)  
-- [Connect on LinkedIn](https://www.linkedin.com/in/césar-g-83005ab3)
-
----
-
 🌟 **Please give me a** ⭐ **if you are interested in my work and like my repositories!**
 
-![Profile views](https://gpvc.arturio.dev/Godoca2)
+![Profile views](https://godoca2.github.io/)
 
