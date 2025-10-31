@@ -1,4 +1,3 @@
-# 👋 Hola, soy César Godoy Delaigue
 
 ### Líder de Tecnología | Ingeniero de Datos Senior | Especialista en Ciencia de Datos y GIS
 
