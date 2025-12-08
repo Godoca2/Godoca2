@@ -1,11 +1,11 @@
 
-### 🌍 Ingeniero de Datos  | Especialista en Ciencia de Datos y GIS
+### Ingeniero de Datos  | Especialista en Ciencia de Datos y GIS
 
 Desarrollo e implemento sistemas de información, bases de datos y soluciones analíticas integradas para la gestión geocientífica. Combino experiencia técnica, liderazgo de equipos multidisciplinarios y visión estratégica orientada a la innovación tecnológica.
 
 ---
 
-## 💡 Áreas de especialización
+## Áreas de especialización
 - **Data Engineering:** ETL, automatización de procesos, QA/QC de datos, bases relacionales y no relacionales.  
 - **Business Intelligence:** Power BI, Tableau, Looker Studio, integración con PostgreSQL y GCP.  
 - **GIS y Geodatos:** ArcGIS Pro, QGIS, PostGIS, análisis espacial y mapas bivariados.  
@@ -14,7 +14,7 @@ Desarrollo e implemento sistemas de información, bases de datos y soluciones an
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
 | **Portal Gestor Hídrico** | Sistema de análisis, control y visualización de datos ambientales y de recursos hídricos. | PostgreSQL, Power BI, ArcGIS Pro |
@@ -24,7 +24,7 @@ Desarrollo e implemento sistemas de información, bases de datos y soluciones an
 
 ---
 
-## 🧰 Stack principal
+## Stack principal
 **Lenguajes:** Python, R, SQL  
 **Bases de Datos:** PostgreSQL, MS SQL, DuckDB, MongoDB  
 **Herramientas:** Power BI, Tableau, ArcGIS Pro, QGIS  
@@ -33,7 +33,7 @@ Desarrollo e implemento sistemas de información, bases de datos y soluciones an
 
 ---
 
-## 🌍 Sobre mí
+## Sobre mí
 Más de 12 años de experiencia profesional desarrollando soluciones tecnológicas para la gestión de datos en proyectos ambientales, hidrogeológicos y de exploración minera.  
 Candidato al Máster en Data Science (UDD).
 
