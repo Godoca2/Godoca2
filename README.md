@@ -1,5 +1,5 @@
 
-### Ingeniero de Datos  | Especialista en Ciencia de Datos y GIS
+### Data Ingenier | Data Scientist y GIS
 
 Desarrollo e implemento sistemas de información, bases de datos y soluciones analíticas integradas para la gestión geocientífica. Combino experiencia técnica, liderazgo de equipos multidisciplinarios y visión estratégica orientada a la innovación tecnológica.
 
